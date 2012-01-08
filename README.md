@@ -4,7 +4,7 @@ Please refer to the [Greasemonkey wiki](http://wiki.greasespot.net/Greasemonkey_
 
 # RESOURCES
 
-* http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks
-* http://www.oreillynet.com/lpt/a/6257
-* http://wiki.greasespot.net/
-* http://userscripts.org/
+* [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks), an online book from O'Reilly
+* [Avoid Common Pitfalls in Greasemonkey](http://www.oreillynet.com/lpt/a/6257)
+* [The Greasemonkey Wiki](http://wiki.greasespot.net/)
+* [Userscripts.org](http://userscripts.org/), a public repository of userscripts
